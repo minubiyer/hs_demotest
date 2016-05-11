@@ -5,6 +5,7 @@
 	<artifactId>Spring3Example</artifactId>
 	<version>6.0</version>
 	<name>Spring3Example</name>
+	<description>This is Spring3 Example</description>
 	<url>http://maven.apache.org</url>
 
 	<properties>
