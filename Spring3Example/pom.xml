@@ -3,7 +3,6 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mkyong.core</groupId>
 	<artifactId>Spring3Example</artifactId>
-	<packaging>jar</packaging>
 	<version>6.0</version>
 	<name>Spring3Example</name>
 	<url>http://maven.apache.org</url>
