@@ -4,7 +4,7 @@
 	<groupId>com.mkyong.core</groupId>
 	<artifactId>Spring3Example</artifactId>
 	<packaging>jar</packaging>
-	<version>2.0</version>
+	<version>4.0</version>
 	<name>Spring3Example</name>
 	<url>http://maven.apache.org</url>
 
