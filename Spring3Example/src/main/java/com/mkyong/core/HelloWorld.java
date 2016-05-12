@@ -12,6 +12,7 @@ public class HelloWorld {
 	private String age;
 	//Developing Sprint Story4
 	private double salary;	
+	//Developing Sprint5... nw lets see how merge takes place
 	
 	public void setAge(String age) {
 		this.age=age;
