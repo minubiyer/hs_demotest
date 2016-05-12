@@ -10,6 +10,8 @@ public class HelloWorld {
 	private String careerPath;
 	//Developing Sprint Story 2, will span for a week
 	private String age;
+	//Developing Sprint Story4
+	private double salary;	
 	
 	public void setAge(String age) {
 		this.age=age;
@@ -30,5 +32,13 @@ public class HelloWorld {
 
 	public void printHello() {
 		System.out.println("Spring 3 : Good Morning ! " + name);
+	}
+	
+	public void setSalary(double salary) {
+		this.salary=salary;
+	}
+	
+	public double getSalary() {
+		return salary;
 	}
 }
