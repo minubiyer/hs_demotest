@@ -10,6 +10,5 @@ public class App {
 		System.out.println("Committing this to master");
 		HelloWorld obj = (HelloWorld) context.getBean("helloBean");
 		obj.printHello();
-		//This comment is also part of Spring Story 1;
 	}
 }
