@@ -3,13 +3,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mkyong.core</groupId>
 	<artifactId>Spring3Example</artifactId>
-	<packaging>jar</packaging>
-	<version>5.0</version>
+	<version>6.0</version>
 	<name>Spring3Example</name>
+	<description>This is Spring3 Example</description>
 	<url>http://maven.apache.org</url>
 
 	<properties>
 		<spring.version>3.0.5.RELEASE</spring.version>
+		<java.version>1.7</java.version>
 	</properties>
 
 	<dependencies>
