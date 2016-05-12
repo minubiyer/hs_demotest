@@ -50,6 +50,7 @@ public class HelloWorld {
 	}
 	
 	public String getDepartment() {
+		System.out.println("Fixing department code");
 		return department;
 	}
 }
