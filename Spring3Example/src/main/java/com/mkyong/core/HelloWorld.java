@@ -14,6 +14,7 @@ public class HelloWorld {
 	}
 	
 	public void setName(String name) {
+		System.out.println("Fixing issue in master");
 		this.name = name;
 	}
 
