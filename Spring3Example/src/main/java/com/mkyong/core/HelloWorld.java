@@ -8,6 +8,16 @@ public class HelloWorld {
 	private String name;
 	//developing new functionality in dev branch
 	private String careerPath;
+	//Sprint Story 1
+	private String department;
+	
+	public String getDepartment() {
+	 return department;
+	}
+	
+	public void setDepartment(String dep) {
+		department=dep;
+	}
 	
 	public void setCareerPath(String cPath) {
 		careerPath=cPath;
