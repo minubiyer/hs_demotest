@@ -19,7 +19,6 @@ public class HelloWorld {
 		return age;
 	}
 	
-	
 	public void setCareerPath(String cPath) {
 		careerPath=cPath;
 	}
