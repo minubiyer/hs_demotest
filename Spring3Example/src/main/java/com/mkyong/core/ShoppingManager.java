@@ -8,4 +8,8 @@ public class ShoppingManager {
 		System.out.println("Checking if UAE shipping is possible");
 		System.out.println("all the best");		
 	}
+	
+	public void merchandize() {
+		//Refixing this issue, F#5, S103
+	}
 }
