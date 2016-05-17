@@ -25,6 +25,14 @@ public class App {
 	/*Changing Story#1, JIRAID - 111*/
 	public void createAccount() {
 		//Create Person
+		Person person = new Person();
+		person.setFirstName("Meena");
+		person.setLastName("Iyer");
 		//Link it to Account
+		Account account = new Account();
+		account.setAccountNo("11123434");
+		List accounts = new ArrayList();
+		accounts.add(account);
+		person.setAccounts(account);
 	}
 }
