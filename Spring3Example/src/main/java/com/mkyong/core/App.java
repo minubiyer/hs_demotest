@@ -19,6 +19,9 @@ public class App {
 			//then come home
 		} else {
 			//forget it
+			if(z==y) {
+				//lets move on
+			}
 		}
 	}
 	
