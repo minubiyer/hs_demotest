@@ -12,4 +12,8 @@ public class ShoppingManager {
 	public void merchandize() {
 		//Refixing this issue, F#5, S103
 	}
+	
+	public void moviePlayer() {
+		//F#4. implementation for S24.1-101
+	}
 }
