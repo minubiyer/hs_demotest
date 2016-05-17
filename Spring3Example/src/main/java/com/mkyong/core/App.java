@@ -14,6 +14,11 @@ public class App {
 	
 	/*F#4 change for S24.1-101*/
 	public static void supportingFunc() {
-		System.out.println("Here comes avengers clip.....")
+		System.out.println("Here comes avengers clip....., modifying this statement")
+		if (x==y) {
+			//then come home
+		} else {
+			//forget it
+		}
 	}
 }
