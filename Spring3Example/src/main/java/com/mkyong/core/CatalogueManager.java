@@ -9,4 +9,5 @@ public class CatalogueManager {
 	public String invokeSomething() {
 		System.out.println("hahahahah");
 	}
+
 }
