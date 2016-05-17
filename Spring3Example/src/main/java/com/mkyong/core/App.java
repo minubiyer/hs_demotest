@@ -19,6 +19,7 @@ public class App {
 			//then come home
 		} else {
 			//forget it
+			System.out.println("lets check where issue is");
 		}
 	}
 	
