@@ -35,4 +35,12 @@ public class AppTest
     {
         assertTrue( true );
     }
+	
+	/**
+     * Rigourous Test :-), F#3, S103
+     */
+    public void testAppManager()
+    {
+        assertTrue( true );
+    }
 }

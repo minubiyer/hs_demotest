@@ -8,4 +8,8 @@ public class ShoppingManager {
 		System.out.println("Checking if UAE shipping is possible");
 		System.out.println("all the best");		
 	}
+	
+	public void merchandize() {
+		//New Sprint - F#5, Story ID 101
+	}
 }
