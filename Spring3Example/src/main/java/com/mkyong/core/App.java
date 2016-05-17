@@ -10,6 +10,8 @@ public class App {
 		System.out.println("Committing this to master");
 		HelloWorld obj = (HelloWorld) context.getBean("helloBean");
 		obj.printHello();
+		
+		//Extending main method for S24.1-101
 	}
 	
 	/*F#4 change for S24.1-101*/
