@@ -10,6 +10,6 @@ public class ShoppingManager {
 	}
 	
 	public void merchandize() {
-		//New Sprint - F#5, Story ID 101
+		//Refixing this issue, F#5, S103
 	}
 }
