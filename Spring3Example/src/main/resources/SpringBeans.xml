@@ -11,4 +11,9 @@ http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
 		<property name="name" value="Meena" />
 	</bean>
 	
+	<!--Added for feature#3 stories-->
+	<bean id="helloBean2" class="com.mkyong.core.CatalogueManager">
+		<property name="name" value="S103" />
+	</bean>
+	
 </beans>
