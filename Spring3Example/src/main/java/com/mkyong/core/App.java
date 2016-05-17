@@ -11,9 +11,4 @@ public class App {
 		HelloWorld obj = (HelloWorld) context.getBean("helloBean");
 		obj.printHello();
 	}
-
-	public static void main1(String[] args) {
-		
-		obj.printHello();
-	}
 }
