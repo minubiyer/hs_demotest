@@ -54,12 +54,4 @@ public class HelloWorld {
 		System.out.println("Fixing department code");
 		return department;
 	}
-	/*Added as part S24.1-101*/
-	public void setReference(String ref) {
-		this.age=ref;
-	}
-	
-	public String getReference() {
-		return age;
-	}
 }
