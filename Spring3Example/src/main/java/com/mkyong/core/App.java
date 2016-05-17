@@ -11,4 +11,9 @@ public class App {
 		HelloWorld obj = (HelloWorld) context.getBean("helloBean");
 		obj.printHello();
 	}
+	
+	/*F#4 change for S24.1-101*/
+	public static void supportingFunc() {
+		System.out.println("Here comes avengers clip.....")
+	}
 }
