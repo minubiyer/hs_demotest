@@ -8,7 +8,6 @@ public class CatalogueManager {
 	
 	public String invokeSomething() {
 		System.out.println("hahahahah");
-		//Adding more features in F#5, for story102
 	}
 
 }
