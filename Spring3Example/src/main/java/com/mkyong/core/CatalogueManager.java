@@ -5,4 +5,8 @@ public class CatalogueManager {
 		System.out.println("Added feature#1 user story change");
 		System.out.println("Fixing defect");
 	}
+	
+	public String invokeSomething() {
+		System.out.println("hahahahah");
+	}
 }
