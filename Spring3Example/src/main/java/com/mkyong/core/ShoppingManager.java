@@ -11,6 +11,12 @@ public class ShoppingManager {
 	
 	public void merchandize() {
 		//Refixing this issue, F#5, S103
+		if(tshirt) {
+			// this block is for Tshirt execution
+		} else {
+			// here comes the error
+			// okie now the else block is corrected
+		}
 	}
 	
 	public void moviePlayer() {
