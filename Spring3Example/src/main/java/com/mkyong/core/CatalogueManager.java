@@ -9,5 +9,11 @@ public class CatalogueManager {
 	public String invokeSomething() {
 		System.out.println("hahahahah");
 	}
+	
+	public void supportShopping() {
+		new ShoppingManager();
+		// here you shop
+		//loop thru the reason
+	}
 
 }
