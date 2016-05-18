@@ -13,7 +13,9 @@ public class CatalogueManager {
 	public void supportShopping() {
 		new ShoppingManager();
 		// here you shop
-		//loop thru the reason
+		for (loop) {
+			//run till end
+		}
 	}
 
 }

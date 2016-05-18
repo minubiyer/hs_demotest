@@ -15,6 +15,7 @@ public class ShoppingManager {
 			// this block is for Tshirt execution
 		} else {
 			// here comes the error
+			// okie now the else block is corrected
 		}
 	}
 	
