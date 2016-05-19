@@ -22,7 +22,5 @@ public class ShoppingManager {
 	public void moviePlayer() {
 		//F#4. implementation for S24.1-101
 		// here u go fix from hsuser3
-		
-		//Please play movie name Sachin.... and here i come hsuser4 1:38
 	}
 }
