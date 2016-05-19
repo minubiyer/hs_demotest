@@ -21,5 +21,6 @@ public class ShoppingManager {
 	
 	public void moviePlayer() {
 		//F#4. implementation for S24.1-101
+		// here u go fix from hsuser3
 	}
 }
