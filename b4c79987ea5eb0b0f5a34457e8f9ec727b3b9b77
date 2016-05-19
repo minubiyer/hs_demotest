@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_6d18b775",
+        "filename": "Spring3Example/src/main/java/com/mkyong/core/CatalogueManager.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1008463
+      },
+      "writtenOn": "2016-05-19T07:28:07Z",
+      "side": 1,
+      "message": "Why is the loop empty, kindly do some action",
+      "range": {
+        "startLine": 26,
+        "startChar": 0,
+        "endLine": 26,
+        "endChar": 3
+      },
+      "revId": "b4c79987ea5eb0b0f5a34457e8f9ec727b3b9b77",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
