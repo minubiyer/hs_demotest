@@ -20,6 +20,7 @@ public class App {
 		} else {
 			//forget it
 			System.out.println("lets check where issue is");
+			//Fixing this defect here
 		}
 	}
 	
@@ -35,5 +36,6 @@ public class App {
 		List accounts = new ArrayList();
 		accounts.add(account);
 		person.setAccounts(account);
+		//There is an issue here also lets fix it.
 	}
 }
