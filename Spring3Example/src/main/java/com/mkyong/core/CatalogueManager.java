@@ -15,6 +15,7 @@ public class CatalogueManager {
 		// here you shop
 		for (loop) {
 			//run till end
+			//add new change for gerrit
 		}
 	}
 
