@@ -11,7 +11,7 @@ public class PersonService {
 		//come on add functionality over here
 		List results = perDB.findAccount(accountNo);
 		//Iterate loop and store account
-		//OMG what an issue lets fix it.
+		//OMG what an issue lets fix it., redo
 		//added salary, add one more && condition
 		//consider calculation of salary
 		//fix this defect
