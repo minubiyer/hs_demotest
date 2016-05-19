@@ -19,4 +19,13 @@ public class CatalogueManager {
 		}
 	}
 
+	public void newShoppingCart() {
+		new ShoppingManager();
+		// here you shop
+		for (loop that is role base) {
+			if(role.x == x) {
+                         	//terminate loop 
+                        }
+		}
+	}
 }
