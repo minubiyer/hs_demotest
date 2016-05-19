@@ -6,4 +6,5 @@ public class Account{
 	private String accountNo
 	private String accountName
 	private Date accountCreationDate;
+	private Account anontherBankAccount
 }
