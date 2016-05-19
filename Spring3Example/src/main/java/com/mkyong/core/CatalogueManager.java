@@ -23,7 +23,9 @@ public class CatalogueManager {
 		new ShoppingManager();
 		// here you shop
 		for (loop that is role base) {
-			
+			if(role.x == x) {
+                         	//terminate loop 
+                        }
 		}
 	}
 }
