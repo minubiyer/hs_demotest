@@ -12,7 +12,7 @@ public class PersonService {
 		List results = perDB.findAccount(accountNo);
 		//Iterate loop and store account
 		//OMG what an issue lets fix it.
-		//added salary, add one more && condition
+		//added salary, add one more && condition... here goes one more condition
 		//consider calculation of salary
 		return account;		
 	}
