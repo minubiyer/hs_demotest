@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_f2a14247",
+        "filename": "Spring3Example/src/main/java/com/mkyong/core/HelloWorld.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1008463
+      },
+      "writtenOn": "2016-05-19T06:06:05Z",
+      "side": 1,
+      "message": "Added wow",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 6
+      },
+      "revId": "11c435b4641a365aa00b71be18832101594215ce",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
