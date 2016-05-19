@@ -9,4 +9,6 @@ public class Person {
 	//corrected datatype;
 	private long salary;
 	private transient calculatedSalary;
+	//added by hsuser2
+	private Digital enabled;
 }

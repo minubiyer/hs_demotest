@@ -21,4 +21,9 @@ http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
 	<bean id="helloBean2" class="com.mkyong.service.PersonSerive">
 		<property name="name" value="S103" />
 	</bean>
+	
+	<!--Added for new hsuser2 for github gestories-->
+	<bean id="helloBean2" class="com.mkyong.service.ShoppingManager">
+		<property name="name" value="S103" />
+	</bean>
 </beans>
