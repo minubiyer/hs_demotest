@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_ed116705",
+        "filename": "Spring3Example/src/main/java/com/mkyong/core/HelloWorld.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1008463
+      },
+      "writtenOn": "2016-05-19T08:14:00Z",
+      "side": 1,
+      "message": "Change ChangeID and add a constant",
+      "range": {
+        "startLine": 23,
+        "startChar": 1,
+        "endLine": 23,
+        "endChar": 43
+      },
+      "revId": "bfec7e3b03056cbd3f181e502d4c211150ffbcd2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
